@@ -6,6 +6,7 @@
         {
             // Creates a new instance of our Bicycle class
             // What is an instance
+            // Hi Everyone
             Bicycle bicycle = new Bicycle(-1);
             Bicycle bicycle2 = new Bicycle(-1)
             {
